@@ -1,0 +1,32 @@
+From ameulen at unet.nl  Mon Sep 12 01:40:22 2005
+From: ameulen at unet.nl (Ed van der Meulen)
+Date: Mon, 12 Sep 2005 01:40:22 +0200
+Subject: [Nnw-folding-mem] We need more members
+Message-ID: <5.1.0.14.2.20050912013139.0258fad0@pop.unet.nl>
+
+Hi
+
+Simulation of folding proteins is also a wished tool made in our way of 
+only shifting and so close to nature.
+
+This is a shifting paper
+
+http://nnw.berlios.de/docs.php/introftk32/noflash
+
+It's from the mother project. But we can work in the same way. Folding is 
+like falling in each arms. Often giving more energy than consuming energy. 
+And how do we simulate that. A very wished tool.
+
+Please have a nice time
+
+ed
+
+
+-- 
+No virus found in this outgoing message.
+Checked by AVG Anti-Virus.
+Version: 7.0.344 / Virus Database: 267.10.21/96 - Release Date: 10-9-2005
+
+
+
+
